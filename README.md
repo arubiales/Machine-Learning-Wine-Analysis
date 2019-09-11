@@ -9,7 +9,7 @@ We are going to use diferent algorythms and his hyperparameters to fit and find 
 
 The model that we are going to use are: SVM, Linear Regresion, Logistic Regresion, Decission Tree, Random Forest, Baggin with Logistic and Linear Regressions, KNeighbors and **XGBOOST** one of the most popular models in recent years who is obtaining the best results in the majority of the Machine Learning Kaggle competitions.
 
-we are also going to see other functions to help cleaning and preprocessing techniques as Pandas Profiling or GridsearCV that helps us to select the best hyperparameters for the models (with expensive computer cost almost always).
+We are also going to see other functions to help cleaning and preprocessing techniques as Pandas Profiling or GridsearCV that helps us to select the best hyperparameters for the models (with expensive computer cost almost always).
 
 The purpose of this project is to carry out in a practical and fast way how to receive some data, prepare them, train them and choose the best model to take it to production. So I will not expand on the explanation of the models themselves or in other terms.
 
@@ -17,5 +17,5 @@ This dataset has been download from the [University of California, Irvine](https
 
 This repository have:
 * Data directory: where is the original dataset and the transformations to the models
-* model_saved directory: where is the diferent models that we have trained
+* Model_saved directory: where is the diferent models that we have trained
 * The notebooks where we implement the differents Machine Learning methods
